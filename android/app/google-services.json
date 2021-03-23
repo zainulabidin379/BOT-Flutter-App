@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374784633043",
+    "project_id": "be-on-time-f0780",
+    "storage_bucket": "be-on-time-f0780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374784633043:android:8055de1f6a877db687cc26",
+        "android_client_info": {
+          "package_name": "com.example.bot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374784633043-9n7nf43guon0inf86a737tqn327phnqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bot_app",
+            "certificate_hash": "e487ae5e2254c2c2ea00261436cc7948322c1dc3"
+          }
+        },
+        {
+          "client_id": "374784633043-95s1pe8ri146cuc13d5d2f1eqe76l3b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnmMeE5InneoC7wqVb1PLg1C8HvIR_y18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374784633043-95s1pe8ri146cuc13d5d2f1eqe76l3b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
