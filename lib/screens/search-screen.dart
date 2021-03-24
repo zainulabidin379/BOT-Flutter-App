@@ -305,7 +305,7 @@ class _SearchDestinationState extends State<SearchDestination> {
     showDialog(
       context: context,
       builder: (BuildContext context) => SpinKitRotatingCircle(
-        color: kRed,
+        color: kBlack,
         size: 50.0,
       ),
     );
